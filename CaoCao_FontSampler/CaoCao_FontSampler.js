@@ -1,4 +1,6 @@
 /* 
+This font and font sampler was created, designed, and coded on unceded Wurundjeri land.
+
 Font Sampler for CaoCao.otf a font by Hien Nguyen for studio A to the K. 2021.
 
 This sampler was based off of Karen Ann Donnachie's typeSamplerTemplate viewable at:
